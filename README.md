@@ -13,7 +13,7 @@ Output will be list of clean sentences.
 python library : pandas,re, nltk, fuzzywuzzy
 
 Input data: Uncleaned raw text with html tags, email headers etc.
-![image](https://drive.google.com/uc?export=view&id=1Vee2saqB_N01ERFBBAGqfpqIdPpK9c_k)
+
 **Executing program**
 
 **Usage:-**
@@ -29,9 +29,9 @@ As we can see it requires \"stop\_sents\" and \"threshold\" ,
 \"spell\_correction\_dict\" as prerequisites. So this data cleaning
 should be done in following process.
 
+![image](https://drive.google.com/uc?export=view&id=1Vee2saqB_N01ERFBBAGqfpqIdPpK9c_k)
+
 **Pipeline:-**
-
-
 **Step 1)** Create stop\_sents:-
 
 Finds duplicate sentences with a given frequency threshold in the whole
