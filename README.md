@@ -13,11 +13,10 @@ Output will be list of clean sentences.
 python library : pandas,re, nltk, fuzzywuzzy
 
 Input data: Uncleaned raw text with html tags, email headers etc.
-
+![image](https://drive.google.com/uc?export=view&id=1Vee2saqB_N01ERFBBAGqfpqIdPpK9c_k)
 **Executing program**
 
 **Usage:-**
-![image](https://drive.google.com/uc?export=view&id=1Vee2saqB_N01ERFBBAGqfpqIdPpK9c_k)
 
 \*\* cleaned\_data is the function that will be called to clean the
 data. While applying in dataframe, This function will be called.
@@ -31,6 +30,7 @@ As we can see it requires \"stop\_sents\" and \"threshold\" ,
 should be done in following process.
 
 **Pipeline:-**
+
 
 **Step 1)** Create stop\_sents:-
 
